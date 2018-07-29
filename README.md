@@ -1,4 +1,4 @@
-# OpenAI-Jokes-Model
+# Humor Generation with PyTorch
 ### Work in Progress  
 Working on this cool stuff 
 https://openai.com/requests-for-research/#funnybot 
